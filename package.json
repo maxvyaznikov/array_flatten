@@ -1,0 +1,26 @@
+{
+  "name": "array_flatten",
+  "version": "1.0.0",
+  "description": "Function makes array flatten",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit unittest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siterra/array_flatten.git"
+  },
+  "devDependencies": {
+      "nodeunit": ""
+  },
+  "keywords": [
+    "array",
+    "flatten"
+  ],
+  "author": "Andris Reinman,Max Vyaznikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siterra/array_flatten/issues"
+  },
+  "homepage": "https://github.com/siterra/array_flatten"
+}
